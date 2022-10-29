@@ -6,7 +6,7 @@ This repo contain full-stack code for simple vendor management system... both ba
  - Express Nodejs
  - Express Handlebars template engine
  - node-cache for RAM
-
+ 
 ** The project is structure in MVC achitecture **
  - Controller - contains all the project routes
  - Model - contain storage logic
